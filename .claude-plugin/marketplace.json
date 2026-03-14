@@ -1,0 +1,13 @@
+{
+  "name": "d2-tools",
+  "owner": {
+    "name": "2gn"
+  },
+  "plugins": [
+    {
+      "name": "d2-author-plugin",
+      "source": "./plugins/d2-author-plugin",
+      "description": "Adds a skill for authoring d2 diagrams"
+    }
+  ]
+}
